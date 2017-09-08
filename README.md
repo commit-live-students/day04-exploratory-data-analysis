@@ -11,9 +11,9 @@
 
 ## Notebooks
 
-[Code Demonstration 1]()
+[Code Demonstration 1](https://github.com/commit-live-students/day04-exploratory-data-analysis/blob/master/notebooks/day04_demo_1.ipynb)
 
-[Code Demonstration 2]()
+[Code Demonstration 2](https://github.com/commit-live-students/day04-exploratory-data-analysis/blob/master/notebooks/day04_demo_2.ipynb)
 
 ## Assignments
 
